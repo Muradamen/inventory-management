@@ -34,4 +34,4 @@ python manage.py createsuperuser
 8. Run Project
 ```
 python manage.py runserver
-```
+manage this project
